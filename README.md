@@ -1,0 +1,1 @@
+# calcu_media_varianza_desEstand
